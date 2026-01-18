@@ -38,22 +38,24 @@ var app = builder.Build();
 // MIDDLEWARE
 // ==============================
 
-// Swagger solo en desarrollo
-if (app.Environment.IsDevelopment())
+// Swagger SIEMPRE activo
+app.UseSwagger();
+app.UseSwaggerUI(c =>
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "API Cooperativa v1");
+});
+
 
 // IMPORTANTE PARA CLEVER CLOUD
 // Usa el puerto que Clever inyecta
+
+
+app.MapControllers();
 app.UseHttpsRedirection();
 
 app.UseCors("AllowAll");
 
 app.UseAuthorization();
-
-app.MapControllers();
 
 // ==============================
 // RUN
