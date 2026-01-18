@@ -51,3 +51,4 @@ C:\Users\USUARIO\OneDrive\Escritorio\api_cooperativa_web\apicooperativa\obj\Debu
 C:\Users\USUARIO\OneDrive\Escritorio\api_cooperativa_web\apicooperativa\obj\Debug\net8.0\apicooperativa.pdb
 C:\Users\USUARIO\OneDrive\Escritorio\api_cooperativa_web\apicooperativa\obj\Debug\net8.0\apicooperativa.genruntimeconfig.cache
 C:\Users\USUARIO\OneDrive\Escritorio\api_cooperativa_web\apicooperativa\obj\Debug\net8.0\ref\apicooperativa.dll
+C:\Users\USUARIO\OneDrive\Escritorio\api_cooperativa_web\apicooperativa\obj\Debug\net8.0\apicooperativa.sourcelink.json

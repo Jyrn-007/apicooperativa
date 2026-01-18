@@ -284,7 +284,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "apicooperativa.ServiciosController",
+    "ContainingType": "apicooperativa.Controllers.ServiciosController",
     "Method": "Get",
     "RelativePath": "api/Servicios",
     "HttpMethod": "GET",
@@ -294,7 +294,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "apicooperativa.ServiciosController",
+    "ContainingType": "apicooperativa.Controllers.ServiciosController",
     "Method": "Create",
     "RelativePath": "api/Servicios",
     "HttpMethod": "POST",
@@ -310,7 +310,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "apicooperativa.ServiciosController",
+    "ContainingType": "apicooperativa.Controllers.ServiciosController",
     "Method": "Update",
     "RelativePath": "api/Servicios/{id}",
     "HttpMethod": "PUT",
@@ -331,7 +331,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "apicooperativa.ServiciosController",
+    "ContainingType": "apicooperativa.Controllers.ServiciosController",
     "Method": "Delete",
     "RelativePath": "api/Servicios/{id}",
     "HttpMethod": "DELETE",
