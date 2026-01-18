@@ -1,0 +1,412 @@
+[
+  {
+    "ContainingType": "apicooperativa.Controllers.AuditoriaController",
+    "Method": "Get",
+    "RelativePath": "api/Auditoria",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.AuditoriaController",
+    "Method": "GetByUsuario",
+    "RelativePath": "api/Auditoria/usuario/{usuario}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuario",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.CarruselController",
+    "Method": "Get",
+    "RelativePath": "api/Carrusel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.CarruselController",
+    "Method": "Create",
+    "RelativePath": "api/Carrusel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "c",
+        "Type": "apicooperativa.Models.Carrusel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.CarruselController",
+    "Method": "Update",
+    "RelativePath": "api/Carrusel/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "c",
+        "Type": "apicooperativa.Models.Carrusel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.CarruselController",
+    "Method": "Delete",
+    "RelativePath": "api/Carrusel/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.ImagenesController",
+    "Method": "Get",
+    "RelativePath": "api/Imagenes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.ImagenesController",
+    "Method": "Create",
+    "RelativePath": "api/Imagenes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "i",
+        "Type": "apicooperativa.Models.Imagen",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.ImagenesController",
+    "Method": "Delete",
+    "RelativePath": "api/Imagenes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoginController.Controllers.LoginController",
+    "Method": "GetAll",
+    "RelativePath": "api/Login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoginController.Controllers.LoginController",
+    "Method": "Create",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "u",
+        "Type": "apicooperativa.Models.usuarios",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoginController.Controllers.LoginController",
+    "Method": "GetById",
+    "RelativePath": "api/Login/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoginController.Controllers.LoginController",
+    "Method": "Update",
+    "RelativePath": "api/Login/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "u",
+        "Type": "apicooperativa.Models.usuarios",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoginController.Controllers.LoginController",
+    "Method": "Delete",
+    "RelativePath": "api/Login/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoginController.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "apicooperativa.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.RefreshTokensController",
+    "Method": "GetAll",
+    "RelativePath": "api/RefreshTokens",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.RefreshTokensController",
+    "Method": "Create",
+    "RelativePath": "api/RefreshTokens",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rt",
+        "Type": "apicooperativa.Models.RefreshToken",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.RefreshTokensController",
+    "Method": "Delete",
+    "RelativePath": "api/RefreshTokens/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.RefreshTokensController",
+    "Method": "Revoke",
+    "RelativePath": "api/RefreshTokens/revocar/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.ServiciosController",
+    "Method": "Get",
+    "RelativePath": "api/Servicios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.ServiciosController",
+    "Method": "Create",
+    "RelativePath": "api/Servicios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "s",
+        "Type": "apicooperativa.Models.Servicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.ServiciosController",
+    "Method": "Update",
+    "RelativePath": "api/Servicios/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "s",
+        "Type": "apicooperativa.Models.Servicio",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.ServiciosController",
+    "Method": "Delete",
+    "RelativePath": "api/Servicios/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.SucursalesController",
+    "Method": "Get",
+    "RelativePath": "api/Sucursales",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.SucursalesController",
+    "Method": "Create",
+    "RelativePath": "api/Sucursales",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "s",
+        "Type": "apicooperativa.Models.Sucursal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.SucursalesController",
+    "Method": "Update",
+    "RelativePath": "api/Sucursales/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "s",
+        "Type": "apicooperativa.Models.Sucursal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "apicooperativa.Controllers.SucursalesController",
+    "Method": "Delete",
+    "RelativePath": "api/Sucursales/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
