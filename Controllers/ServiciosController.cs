@@ -3,7 +3,7 @@ using apicooperativa.Models;
 using Microsoft.AspNetCore.Mvc;
 using MySql.Data.MySqlClient;
 
-namespace apicooperativa
+namespace apicooperativa.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

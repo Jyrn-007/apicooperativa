@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\data\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:data\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:controllers\\sucursalescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\controllers\\carruselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:controllers\\carruselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\controllers\\refreshtokenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\controllers\\imagenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:controllers\\imagenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\controllers\\carruselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:controllers\\carruselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\models\\carrusel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|c:\\users\\usuario\\onedrive\\escritorio\\api_cooperativa_web\\apicooperativa\\data\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D860B4CC-9393-4648-AD29-ADF1B18FEE1D}|apicooperativa.csproj|solutionrelative:data\\mysqlcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 130,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,72 +126,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-18T06:50:49.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T06:38:01.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RefreshTokensController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\RefreshTokensController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RefreshTokensController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\RefreshTokensController.cs",
-              "RelativeToolTip": "Controllers\\RefreshTokensController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:36:19.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "CarruselController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\CarruselController.cs",
               "RelativeDocumentMoniker": "Controllers\\CarruselController.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\CarruselController.cs",
               "RelativeToolTip": "Controllers\\CarruselController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwCAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T06:28:26.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Carrusel.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Models\\Carrusel.cs",
-              "RelativeDocumentMoniker": "Models\\Carrusel.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Models\\Carrusel.cs",
-              "RelativeToolTip": "Models\\Carrusel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:31:04.019Z",
+              "WhenOpened": "2026-01-18T06:29:30.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:12:39.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "SucursalesController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\SucursalesController.cs",
               "RelativeDocumentMoniker": "Controllers\\SucursalesController.cs",
@@ -200,7 +191,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "MySqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Data\\MySqlContext.cs",
+              "RelativeDocumentMoniker": "Data\\MySqlContext.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Data\\MySqlContext.cs",
+              "RelativeToolTip": "Data\\MySqlContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T06:22:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T06:12:39.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Carrusel.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Models\\Carrusel.cs",
+              "RelativeDocumentMoniker": "Models\\Carrusel.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Models\\Carrusel.cs",
+              "RelativeToolTip": "Models\\Carrusel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T06:31:04.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RefreshTokensController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\RefreshTokensController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RefreshTokensController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\RefreshTokensController.cs",
+              "RelativeToolTip": "Controllers\\RefreshTokensController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T06:36:19.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
@@ -208,12 +248,11 @@
               "RelativeToolTip": "DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:20:19.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:20:19.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Models\\RefreshToken.cs",
               "RelativeDocumentMoniker": "Models\\RefreshToken.cs",
@@ -221,12 +260,11 @@
               "RelativeToolTip": "Models\\RefreshToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:36:41.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:36:41.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AuditoriaController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\AuditoriaController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuditoriaController.cs",
@@ -234,12 +272,11 @@
               "RelativeToolTip": "Controllers\\AuditoriaController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:35:26.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:35:26.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Auditoria.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Models\\Auditoria.cs",
               "RelativeDocumentMoniker": "Models\\Auditoria.cs",
@@ -247,12 +284,11 @@
               "RelativeToolTip": "Models\\Auditoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:35:30.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:35:30.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ImagenesController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Controllers\\ImagenesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ImagenesController.cs",
@@ -260,12 +296,11 @@
               "RelativeToolTip": "Controllers\\ImagenesController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAIwDoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:29:52.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:29:52.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "usuarios.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Models\\usuarios.cs",
               "RelativeDocumentMoniker": "Models\\usuarios.cs",
@@ -273,12 +308,11 @@
               "RelativeToolTip": "Models\\usuarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:18:52.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:18:52.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Imagen.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Models\\Imagen.cs",
               "RelativeDocumentMoniker": "Models\\Imagen.cs",
@@ -286,12 +320,11 @@
               "RelativeToolTip": "Models\\Imagen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:31:42.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:31:42.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Servicio.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Models\\Servicio.cs",
               "RelativeDocumentMoniker": "Models\\Servicio.cs",
@@ -299,34 +332,7 @@
               "RelativeToolTip": "Models\\Servicio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:31:26.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ServiciosController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\ServiciosController.cs",
-              "RelativeDocumentMoniker": "ServiciosController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\ServiciosController.cs",
-              "RelativeToolTip": "ServiciosController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:29:30.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MySqlContext.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Data\\MySqlContext.cs",
-              "RelativeDocumentMoniker": "Data\\MySqlContext.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Data\\MySqlContext.cs",
-              "RelativeToolTip": "Data\\MySqlContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:22:25.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:31:26.693Z"
             }
           ]
         },

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("apicooperativa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ff02044cec3c91dc05f1ec3aade918ffbf8da8")]
 [assembly: System.Reflection.AssemblyProductAttribute("apicooperativa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("apicooperativa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
