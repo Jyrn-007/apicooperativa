@@ -132,9 +132,10 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T06:50:49.442Z"
+              "WhenOpened": "2026-01-18T06:50:49.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,7 +145,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T06:38:01.706Z",
               "EditorCaption": ""
@@ -193,7 +194,7 @@
               "RelativeDocumentMoniker": "Data\\MySqlContext.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\api_cooperativa_web\\apicooperativa\\Data\\MySqlContext.cs",
               "RelativeToolTip": "Data\\MySqlContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T06:22:25.206Z"
             },

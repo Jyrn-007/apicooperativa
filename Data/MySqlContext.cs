@@ -1,4 +1,5 @@
 ﻿using MySql.Data.MySqlClient;
+using Microsoft.Extensions.Configuration;
 
 namespace apicooperativa.Data
 {
@@ -13,8 +14,12 @@ namespace apicooperativa.Data
 
         public MySqlConnection GetConnection()
         {
-            var cs = _config.GetConnectionString("MySqlConnection");
-            return new MySqlConnection(cs);
+            var connStr = _config.GetConnectionString("DefaultConnection");
+
+            if (string.IsNullOrEmpty(connStr))
+                throw new Exception("ConnectionStrings:DefaultConnection no definida");
+
+            return new MySqlConnection(connStr);
         }
     }
 }
