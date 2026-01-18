@@ -2,22 +2,21 @@
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 🔹 Controllers
+// Controllers
 builder.Services.AddControllers();
 
-// 🔹 Swagger
+// Swagger
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// 🔹 MySQL Context
+// MySQL
 builder.Services.AddSingleton<MySqlContext>();
-
 
 builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
-// 🔹 Swagger
+// Swagger
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -25,12 +24,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-// 🔐 ORDEN IMPORTANTE
-app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
-
 app.Run();
-
